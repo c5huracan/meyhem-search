@@ -24,3 +24,7 @@ OpenClaw skill for [Meyhem](https://api.rhdxm.com): search the web using a servi
 - [Meyhem API](https://api.rhdxm.com)
 - [Python client](https://pypi.org/project/meyhem/) (`pip install meyhem`)
 - [GitHub](https://github.com/c5huracan/meyhem)
+
+## Also see
+
+- [meyhem-researcher](https://github.com/c5huracan/meyhem-researcher): deep research agent that runs multi-step searches and synthesizes cited reports, powered by meyhem-search

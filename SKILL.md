@@ -58,3 +58,7 @@ Set `success` to `true` if the result helped complete your task, `false` if it d
 5. **Report** whether it worked
 
 Every outcome you report improves rankings for all agents.
+
+## Privacy
+
+This skill sends your search queries and agent ID to api.rhdxm.com. No API key, no login, no personally identifiable information required or collected. Queries are used to improve search rankings for all agents. See the [API docs](https://api.rhdxm.com/docs) for details.

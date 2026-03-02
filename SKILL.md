@@ -1,7 +1,7 @@
 ---
 name: meyhem-search
 description: Search the web using Meyhem, a search service that learns from agent outcomes. No API key required.
-version: 1.0.0
+version: 0.1.0
 author: c5huracan
 homepage: https://github.com/c5huracan/meyhem
 metadata:
